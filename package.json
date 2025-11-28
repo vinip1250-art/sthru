@@ -1,0 +1,7 @@
+{
+  "name": "stremio-addon",
+  "version": "1.0.0",
+  "dependencies": {
+    "stremthru": "latest"
+  }
+}
