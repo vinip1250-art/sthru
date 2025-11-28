@@ -6,4 +6,4 @@ ENV STREMTHRU_PROXY_AUTH=
 ENV STREMTHRU_STORE_AUTH=
 ENV STREMTHRU_PEER_URI=
 ENV STREMTHRU_REDIS_URI=
-ENV STREMTHRU_DATABASE_URI=postgresql://neondb_owner:npg_BJPKoTb6NuZ3@ep-snowy-frog-ae4mbq52-pooler.c-2.us-east-2.aws.neon.tech/neondb?sslmode=require
+ENV STREMTHRU_DATABASE_URI=postgresql://postgres:wfqhAsl1AiO2CabA@db.qfkswkzwnkbkrilwsmbu.supabase.co:5432/postgres
