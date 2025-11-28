@@ -1,0 +1,18 @@
+{
+  "name": "stremthru 1.0",
+  "version": "1.0.0",
+  "description": "StremThru Wrapper Generator",
+  "main": "Dockerfile",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.2",
+    "@vercel/analytics": "^1.1.1" 
+  }
+}
