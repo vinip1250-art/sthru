@@ -1,4 +1,4 @@
-FROM ghcr.io/muniftanjim/stremthru
+FROM ghcr.io/muniftanjim/stremthru:latest
 
 ENV STREMTHRU_HTTP_PROXY=
 ENV STREMTHRU_TUNNEL=
