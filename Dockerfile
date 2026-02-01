@@ -6,4 +6,4 @@ ENV STREMTHRU_PROXY_AUTH=
 ENV STREMTHRU_STORE_AUTH=
 ENV STREMTHRU_PEER_URI=
 ENV STREMTHRU_REDIS_URI=
-ENV STREMTHRU_DATABASE_URI=mongodb+srv://Vercel-Admin-atlas-lightBlue-house:sW;dQcR]CF7N1K:f@atlas-lightblue-house.xcbaj6w.mongodb.net/
+ENV STREMTHRU_DATABASE_URI=postgres://postgres:O4VC3vX3ET1zarkX@db.mmdsfaedazogamhbzcgp.supabase.co:5432/postgres
