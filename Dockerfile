@@ -6,4 +6,4 @@ ENV STREMTHRU_PROXY_AUTH=
 ENV STREMTHRU_STORE_AUTH=
 ENV STREMTHRU_PEER_URI=
 ENV STREMTHRU_REDIS_URI=
-ENV STREMTHRU_DATABASE_URI=postgres://postgres:O4VC3vX3ET1zarkX@db.mmdsfaedazogamhbzcgp.supabase.co:5432/postgres
+ENV STREMTHRU_DATABASE_URI=postgresql://postgres:O4VC3vX3ET1zarkX@db.mmdsfaedazogamhbzcgp.supabase.co:5432/postgres
